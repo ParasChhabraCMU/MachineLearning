@@ -1,0 +1,4 @@
+Did you receive any help whatsoever from anyone in solving this assignment? Yes, Nidhish and I discussed the algorithm and how to approach the problem at hand.
+
+Did you give any help whatsoever to anyone in solving this assignment? Yes, Nidhish and I discussed the algorithm and how to approach the problem at hand.
+Did you find or come across code that implements any part of this assignment ?  No 
